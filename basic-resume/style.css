@@ -23,14 +23,11 @@ body {
 	align-content: auto center;
 }
 
-<!-- come back and figure out center -->
-
 img{
 	display: none;
 }
 
 #title{
-	text-transform: lowercase;
 	font-size: 1em;
 	color: #33485e;
 	margin-top: 20 px;
@@ -38,7 +35,8 @@ img{
 	margin-left: 0px;
 	margin-right: 0px;
 	font-weight: 600px;
-	align-content: center;
+	align-content: auto center;
+	font-weight: bold;
 }
 
 .sectionheader {
@@ -59,6 +57,7 @@ img{
 	font-weight: 600;
 	font-size: 1.5em;
 	margin: 0 px;
+	font-weight: bold;
 }
 
 .organization{ 
