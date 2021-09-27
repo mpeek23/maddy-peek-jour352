@@ -5,6 +5,13 @@ body {
 	font-weight: 400;
 }
 
+#container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
 #name {
 	font-size: 3em;
 	color: #33485e;
@@ -12,18 +19,26 @@ body {
 	border-bottom: 1px #33485E solid;
 	width: 60%; 
 	min-width: 300px;
-	margin: 0px auto;
+	margin: 0px;
+	align-content: auto center;
 }
+
+<!-- come back and figure out center -->
 
 img{
 	display: none;
 }
 
-b{
+#title{
 	text-transform: lowercase;
 	font-size: 1em;
 	color: #33485e;
-	margin: 0 px;
+	margin-top: 20 px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-weight: 600px;
+	align-content: center;
 }
 
 .sectionheader {
@@ -34,8 +49,10 @@ b{
 	font-weight: 400;
 	margin-bottom: 10px;
 	margin-top: 20px;
-	margin: 0 px;
-	width: 70%, min= 300px;
+	margin-right: 0 px;
+	margin-left: 0 px;
+	width: 70%;
+	min-width: 300 px;
 }
 
 .jobtitle {
@@ -54,10 +71,46 @@ b{
 	font-weight: 400;
 	font-style: italic;
 	font-size: 1em;
-	margin: 2 px;
+	margin-top: 2 px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
-ul-li
-{
-font-size: 1em;
+.description {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
+
+.menu {
+font-size: 1em;
+margin: 0px;
+padding: 0px;
+align-content: center;
+display: inline;
+}
+
+#degrees {
+margin-top: 5px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+}
+
+#do {
+	margin-top: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.top  {
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+
