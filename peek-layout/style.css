@@ -1,0 +1,51 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+p {
+	font-family: Arial: Lato: "Times New Roman";
+}
+
+#masthead {
+	background-color: maroon;
+	color: white;
+	font-size: 100px;
+	text-align: center;
+	font-style: italic;
+}
+
+#subtitle {
+	background-color: maroon;
+	color: white;
+	font-style: italic;
+	text-align: center;
+}
+
+#headline {
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#byline {
+font-weight: bold;
+}
+
+#pullquote {
+	font:"Times New Roman": Arial: Lato;
+	font-size: 35px;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: maroon;
+	margin-left: 50px;
+	padding-left: 15px;
+	border-left: 4px solid #ccc;
+}
+
+#read-more{
+	font-weight: bold;
+	font-style: italic;
+	color: maroon;
+}
