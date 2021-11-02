@@ -1,0 +1,49 @@
+<style> 
+
+@media screen and (max-width: 480px){
+    p {
+   font-size:16px;
+ }
+}
+
+.container {
+  background-color: #D2FCFB;
+  font-family: Georgia: sans-serif;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+#title {
+  font-size: 48px;
+  font-style: bold;
+}
+
+#description {
+  font-size: 24px;
+  font-style: italic;
+  text-decoration: underline;
+  padding-bottom: 10px;
+}
+
+.bi {
+  font-size:3em;
+}
+
+.center-column {
+  text-align: center;
+}
+
+.left-column {
+  text-align: left;
+}
+
+.jobttitle {
+  font-style: bold;
+}
+
+#about-section {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+</style>
