@@ -1,0 +1,60 @@
+#container {
+	margin-right: auto; 
+	margin-left: auto; 
+	max-width:960px; 
+	padding-right: 15px; 
+	padding-left: 15px;
+	text-align: center;
+}
+
+/*controls formatting*/
+
+#byline {
+	font-size: 15px;
+	color: darkred;
+	font-weight: bold;
+}
+
+.captions {
+	font-style: italic;
+	font-size: 13px;
+	color: darkred;
+}
+
+#banner {
+	width: 100%;
+}
+
+.links {
+	font-size: 15px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#headline {
+	font-family: Georgia;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.subheading {
+	font-family: Georgia;
+	font-size: 30px;
+	font-style: italic;
+	color: darkred;
+	font-weight:bolder;
+}
+
+#main-text {
+	font-family: Helvetica: arial: sans-serif;
+	font-size: 12px;
+}
+
+#pullquote {
+	font-size: 20px;
+	color: darkred;
+	font-style: italic;
+	font-weight: 900;
+	font-family: Georgia;
+}
+
